@@ -59,7 +59,7 @@ const removeVowels = (str) => {
   console.log(findMaxDiff([2, 4, 3, 6, 7]));
   
   //que 7
-  // find non digit word
+  // find non digit from string
   
   const findNonDigitWord = (str) => {
     return str.match(/\D/g);
